@@ -1,4 +1,4 @@
-﻿Shader "Custom/LambertDefault" {
+﻿Shader "UMA/Standard/LambertDefault" {
 	Properties {
 		_MainTex ("Base (RGB)", 2D) = "white" {}
 	}
